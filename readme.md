@@ -2,14 +2,7 @@
 
 # WebGL Black Hole
 
-> A mesmerizing WebGL simulation of a black hole — where physics meets art, and code becomes cosmos.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Three.js-r141-%23000000?style=flat&logo=three.js" alt="Three.js">
-  <img src="https://img.shields.io/badge/Vite-^2.9-%23646CFF?style=flat&logo=vite" alt="Vite">
-  <img src="https://img.shields.io/badge/GLSL-3.0-%23FFFFFF?style=flat" alt="GLSL">
-  <img src="https://img.shields.io/badge/License-MIT-%23blue?style=flat" alt="MIT License">
-</p>
+ A mesmerizing WebGL simulation of a black hole — where physics meets art, and code becomes cosmos.
 
 ---
 
@@ -290,4 +283,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center"><em>If this project moved you, give it a star — it means more than you know.</em></p>
+<p align="center">
+Made with ❤️ by <a href="https://sebas-dev.vercel.app/" target="_blank" rel="noopener noreferrer">Sebastián V</a>
+
+</p>
